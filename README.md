@@ -1,7 +1,7 @@
 # Hi, I'm Maithri Chenna 👋  
 ### 📊 Finance | 📈 Data Analysis | 🔍 Risk Management  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maithrichenna1&show_icons=true&theme=radical)
+![Maithri's GitHub stats](https://github-readme-stats.vercel.app/api?username=maithrichenna1&show_icons=true&theme=radical)
 
 🚀 **About Me:**  
 - 🎓 MFin | CFA Institute Member | FRM Part 1 Candidate  
